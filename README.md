@@ -1,5 +1,5 @@
 # sudoku-solver
-solve any 9x9 sudoku with backtracking
+solve any 9x9 sudoku with backtracking made with pygame
 
 create a new text file containing information about a given 9x9 sudoku
 
